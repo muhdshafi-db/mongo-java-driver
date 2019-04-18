@@ -1,6 +1,6 @@
 # mongo-java-driver
 ## maven dependency
-```javascript
+```
  <dependency>
     <groupId>org.mongodb</groupId>
     <artifactId>mongo-java-driver</artifactId>
