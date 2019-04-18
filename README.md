@@ -24,3 +24,7 @@ reference -  https://www.journaldev.com/3963/mongodb-java-crud-example-tutorial
                                           new ServerAddress("localhost", 27019)));
 
 ```
+### Connect to MongoDB Database 
+``` java
+DB db = mongo.getDB("journaldev");
+```
