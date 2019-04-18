@@ -7,3 +7,8 @@
     <version>3.10.2</version>
  </dependency>
 ```
+## Creating MongoDB Java Connection 
+### Connect to MongoDB server 
+``` java
+MongoClient mongoClient = new MongoClient( "localhost" , 27017 );
+```
